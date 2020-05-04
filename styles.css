@@ -1,0 +1,117 @@
+body{
+  margin: 0;
+  color:#40514E ;
+  text-align: center;
+background-color:  #EAF6F6;
+
+}
+.first{
+  position: relative;
+  padding-top:100px;
+  background-color: #EAF6F6;
+}
+h1{
+
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  font-family: 'rock salt';
+
+  color:#66BFBF;
+
+}
+.bottom{
+  position: absolute;
+  left:400px;
+  bottom: 300px;
+
+}
+h3{
+  color: #11999E;
+  font-family: sans-serif;
+}
+.upper{
+  position: absolute;
+  top:120px;
+  right:350px;
+}
+.pra{
+  width: 30%;
+  margin: 50px auto 50px auto;
+}
+.skills{
+
+text-align: center;
+margin-top: 50px;
+}
+.middle-container{
+  margin-top: 100px;
+}
+.bottom-container{
+  margin-top: 100px;
+  background-color: #66bfbf;
+  padding: 20px;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.contact-me{
+  margin-top: 200px;
+}
+.hee{
+  margin-top: 10px;
+}
+.my{
+  width: 20%;
+}
+.code{
+  width: 28%;
+  float: left;
+  margin-right: 30px;
+
+}
+.chilli{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+h2{
+  font-family: sans-serif;
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 3PX auto auto auto;
+}
+.nnnn{
+  text-align: center;
+}
+.rog{
+  text-align: center;
+
+}
+hr{
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.skill-row{
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+  margin:100px auto 100px auto;
+
+}
+.hobbies{
+  margin-top: 100px;
+}
+.copys{
+  color:#EAF6F6;
+  padding: 20px 0;
+}
